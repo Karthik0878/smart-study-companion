@@ -29,5 +29,5 @@ Smart Study Companion is an AI-powered web application designed to help students
 
 ---
 
-## Folder Structure
+
 
