@@ -1,6 +1,3 @@
-# Smart Study Companion
-
-AI-powered study assistant for note summarization and quiz generation.
 
 # Smart Study Companion
 Smart Study Companion is an AI-powered web application designed to help students improve learning efficiency. It leverages Natural Language Processing (NLP) and deep learning to provide **text summarization** and **quiz generation** features from uploaded study materials.
