@@ -1,7 +1,8 @@
 # Smart Study Companion
-AI-powered study assistant for note summarization and quiz generation.
-# Smart Study Companion
 
+AI-powered study assistant for note summarization and quiz generation.
+
+# Smart Study Companion
 Smart Study Companion is an AI-powered web application designed to help students improve learning efficiency. It leverages Natural Language Processing (NLP) and deep learning to provide **text summarization** and **quiz generation** features from uploaded study materials.
 
 ---
@@ -11,7 +12,7 @@ Smart Study Companion is an AI-powered web application designed to help students
 1. **Text Summarization**
    - Upload your notes or any `.txt` file.
    - The AI summarizes the content into concise key points.
-   
+
 2. **Quiz Generation**
    - Automatically generates questions and answers based on uploaded study material.
    - Helps students test their understanding of the content.
@@ -24,29 +25,11 @@ Smart Study Companion is an AI-powered web application designed to help students
 
 ## Tech Stack
 
-- **Backend:** Python, FastAPI, Uvicorn
-- **Frontend:** React.js
-- **AI/ML:** Transformers, PyTorch
-- **Other:** python-multipart (for file uploads)
+- Python, FastAPI, Uvicorn (Backend)
+- React.js (Frontend)
+- Transformers, PyTorch (AI/ML)
+- python-multipart (for file uploads)
 
-smart-study-companion/
-├─ backend/
-│ ├─ main.py
-│ ├─ utils.py
-│ └─ requirements.txt
-├─ frontend/
-│ ├─ package.json
-│ ├─ public/
-│ │ └─ index.html
-│ └─ src/
-│ ├─ App.js
-│ ├─ index.js
-│ └─ components/
-│ ├─ NoteInput.js
-│ ├─ QuizDisplay.js
-│ └─ Dashboard.js
-├─ README.md
-└─ .gitignore
 ---
 
 ## Folder Structure
